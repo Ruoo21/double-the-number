@@ -1,3 +1,3 @@
 # double-the-number
 
-Following tutorial from learncpp.org.
+Following tutorial from learncpp.com.
